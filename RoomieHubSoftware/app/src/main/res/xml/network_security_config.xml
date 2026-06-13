@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- 允许访问本地 Spring Boot 服务的 HTTP 明文接口 -->
+    <base-config cleartextTrafficPermitted="true" />
+</network-security-config>

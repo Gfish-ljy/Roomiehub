@@ -1,0 +1,28 @@
+package com.dorm.health.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val PrimaryLight = Color(0xFF6C5CE7)
+val PrimaryDark = Color(0xFF8075E5)
+val SuccessLight = Color(0xFF00B894)
+val SuccessDark = Color(0xFF55EFC4)
+val WarningLight = Color(0xFFFDCB6E)
+val WarningDark = Color(0xFFFFEAA7)
+val Danger = Color(0xFFFF7675)
+val TextPrimaryLight = Color(0xFF2D3436)
+val TextSecondaryLight = Color(0xFF636E72)
+val TextTertiaryLight = Color(0xFFB2BEC3)
+val TextPrimaryDark = Color(0xFFECEFF4)
+val TextSecondaryDark = Color(0xFFB2C2DF)
+val TextTertiaryDark = Color(0xFF7F8C8D)
+val BgGradientStartLight = Color(0xFFF5F7FE)
+val BgGradientEndLight = Color(0xFFF0F2F8)
+val BgGradientStartDark = Color(0xFF121212)
+val BgGradientEndDark = Color(0xFF1E1E1E)
+val CardLight = Color(0xD9FFFFFF)
+val CardDark = Color(0xE61F1F1F)
+val HeaderGradientStart = Color(0xFFA29BFE)
+val HeaderGradientEnd = Color(0xFF6C5CE7)
+val HeaderDark = Color(0xFF2C2C3A)
+val DividerLight = Color(0x0D000000)
+val DividerDark = Color(0x14FFFFFF)
